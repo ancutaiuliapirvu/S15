@@ -1,0 +1,47 @@
+IF/ELSE
+
+// Transpunem in cod JS urmatoarea afirmatie:
+Dacă ai luat cel puțin 22 de puncte la sală și sub 21 de puncte de penalizare la examen, ai luat carnetul auto, altfel ai picat.
+
+
+// Transpunem in JS urmatoarea afirmatie
+Dacă îmi dă mai puțin de 3000, refuz din start, dacă îmi dă între valoarea 3000 și 4000 iau în calcul și alți factori, dacă îmi dă peste 4000 accept.
+
+
+// Ex: 
+Dorim sa afisam un mesaj customizat, in functie de nota obtinuta. Daca nota e mai mare de 9, afisam "Nota mare!". Daca ai luat nota mai mare de 8, afisam "Nota buna!". Daca ai luat nota mai mare de 5, afisam "Ai trecut!". Altfel, asisam "Mai incearca.".
+
+De remarcat ca intr-o insurile de if...else if, daca una dintre conditii este indeplinita, cele de dupa sunt ignorate. In momentul in care o conditie este indeplinita, dupa executarea instructiunilor corespunzatoare, if-ul se opreste.
+
+
+// INTERVIU: Problema FizzBuzz
+Se da un numar.
+Daca numarul e divizibil cu 3 afiseaza "Fizz".
+Daca numarul e divizibil cu 5 afiseaza "Buzz".
+Daca numarul e divizibil si cu 3 si cu 5 afiseaza "FizzBuzz".
+Altfel afiseaza numarul.
+
+
+Esential: Conditia cea mai stricta este pusa prima! Altfel, una mai putin stricta ar fi evaluata la true si nu s-ar mai ajunge niciodata la conditia stricta.
+
+
+
+SWITCH:
+
+// Se da o variabila care reprezinta o codificare pentru rezultatul unui meci de fotbal.
+Daca are valoarea '1', gazdele au castigat.
+Daca are valoarea 'X', este egalitate.
+Daca are valoare '2', oaspetii au castigat.
+Orice alta valoare este invalida.
+a. Folosind switch, afiseaza mesajele corepunzatoare.
+b. Acelasi lucru, facut cu if
+
+TERNARY:
+
+// Se da o variabila care reprezinta varsta unui utilizator. 
+Verificati (in functie de varsta) ce bautura poate comanda un utilizator - alcoolica sau nu
+
+
+https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/exercises.html
+
+
